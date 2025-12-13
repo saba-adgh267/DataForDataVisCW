@@ -1,10 +1,10 @@
 region,tree_cover_pct,NO2_concentration,health_deprivation_score,population_density
-West Midlands,13.13,12.24,0.32,4325.63
-North East,10.43,9.52,0.68,3527.72
-Yorkshire,9.8,11.39,0.42,3742.63
-North West,10.79,12.5,0.62,4400.15
-East Midlands,11.08,12.16,0.28,4752.42
-London,14.2,20.77,-0.4,10038.07
-South West,13.96,7.79,-0.12,3341.71
-East of England,12.8,10.18,-0.3,3121.4
-South East,17.0,11.76,-0.32,4970.8
+West Midlands,12.1,12.24,0.32,4325.63
+North East,9.5,9.52,0.68,3527.72
+Yorkshire,11.2,11.39,0.42,3742.63
+North West,10.8,12.5,0.62,4400.15
+East Midlands,11.8,12.16,0.28,4752.42
+London,15.2,20.77,-0.4,10038.07
+South West,14.3,7.79,-0.12,3341.71
+East of England,13.5,10.18,-0.3,3121.4
+South East,16.8,11.76,-0.32,4970.8

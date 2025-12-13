@@ -1,10 +1,10 @@
 region,tree_coverage,wealth_level,health_deprivation_score
-North East,10.43,3.8,0.68
-North West,10.79,4.2,0.62
-Yorkshire,9.8,4.9,0.42
-West Midlands,13.13,5.1,0.32
-East Midlands,11.08,5.4,0.28
-East of England,12.8,6.3,-0.3
-London,14.2,6.5,-0.4
-South West,13.96,6.8,-0.12
-South East,17.0,7.2,-0.32
+North East,9.5,3.8,0.68
+North West,10.8,4.2,0.62
+Yorkshire,11.2,4.9,0.42
+West Midlands,12.1,5.1,0.32
+East Midlands,11.8,5.4,0.28
+East of England,13.5,6.3,-0.3
+London,15.2,6.5,-0.4
+South West,14.3,6.8,-0.12
+South East,16.8,7.2,-0.32
